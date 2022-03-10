@@ -2,38 +2,17 @@
 
 ## Técnica de auto aprendizaje recomendado
 
-Pomodoro
+- [Pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) - La técnica Pomodoro es un método para mejorar la administración del tiempo dedicado a una actividad.
 
 ## Aplicaciones recomendadas
 
-Anki https://apps.ankiweb.neth
+- [Anki](https://apps.ankiweb.net) - Anki es un programa que hace que recordar cosas sea fácil. Debido a que es mucho más eficiente que los métodos de estudio tradicionales, puede reducir en gran medida el tiempo que dedica a estudiar o aumentar en gran medida la cantidad que aprende.
 
-## Extensiones para VS Code
+## Extensiones para [VS Code](https://code.visualstudio.com/)
 
-* Bracket Pair Colorizer
-
-Permite identificar bracket coincidentes con colores. El usuario puede definir qué caracteres hacer coincidir y qué colores usar.
-
-* Material Icon Theme
-
-Le coloca a cada archivo un icon segun la extensión, facilitando la identicación de los archivos.
-
-* Prettier
-
-permite automatizar el formateo del código.
-
-* Night Ownl
-
-Tema de VS Code optimizado para codificar en horas nocturnas por los colores usados.
-
-* GitLens
-
-Ayuda a visualizar la autoría del código de un vistazo a través de las anotaciones.
-
-*  ES7 + React/Redux/React-Native
-
-facilita el uso de snippets para JavaScript y React/Redux en ES7+, ayudando a codificar rapidamente acciones repetitivas.
-
-
-
-
+- [Bracket Pair Colorizer](https://github.com/CoenraadS/BracketPair#readme) - Permite identificar bracket coincidentes con colores. El usuario puede definir qué caracteres hacer coincidir y qué colores usar.
+- [Material Icon Theme](https://github.com/PKief/vscode-material-icon-theme/blob/main/README.md) - Le coloca a cada archivo un icon segun la extensión, facilitando la identicación de los archivos.
+- [Prettier](https://prettier.io/) - permite automatizar el formateo del código.
+- [Night Ownl](https://github.com/sdras/night-owl-vscode-theme#readme) - Tema de VS Code optimizado para codificar en horas nocturnas por los colores usados.
+- [GitLens](https://gitlens.amod.io/) - Ayuda a visualizar la autoría del código de un vistazo a través de las anotaciones.
+- [ES7 + React/Redux/React-Native](https://github.com/dsznajder/vscode-react-javascript-snippets#readme) - facilita el uso de snippets para JavaScript y React/Redux en ES7+, ayudando a codificar rapidamente acciones repetitivas.

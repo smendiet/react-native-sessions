@@ -23,7 +23,7 @@ La clase se dividio en dos partes en la primera parte se realizo el setup de amb
       * adb -s <hash del device> reverse tcp:8081 tcp:8081
 
 3. Configurar las variables de entorno
-  *. Agregar al PATH
+  * Agregar al PATH
     * Android SDK location
     * ubicacion de platform-tools (para poder usar adb)
   * Agregar la variable de entorno ANDROID_SDK_ROOT con Android SDK Location
