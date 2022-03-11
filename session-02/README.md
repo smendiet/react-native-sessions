@@ -43,10 +43,13 @@ La clase se dividio en dos partes en la primera parte se realizo el setup de amb
 
 1. Componentes
   
-[Image](https://reactnative.dev/docs/image)
-:  Cmponente para mostrar diferentes tipos de imágenes, incluidas imágenes de red, recursos estáticos, imágenes locales temporales e imágenes de discos locales 
-  * SafeAreaView
-  * TouchableOpacity
+  [Image](https://reactnative.dev/docs/image)
+  :  Componente para mostrar diferentes tipos de imágenes, incluidas imágenes de red, recursos estáticos, imágenes locales temporales e imágenes de discos locales 
+  [SafeAreaView](https://reactnative.dev/docs/safeareaview)
+  :   El propósito de SafeAreaView es representar contenido dentro de los límites del área segura de un dispositivo.
+  [TouchableOpacity](https://reactnative.dev/docs/touchableopacity)
+  :   Un wrapper para hacer que las vistas respondan correctamente a los toques.
+
 2. esquema de carpetas
 3. uso de StyleSheet
 
