@@ -42,7 +42,9 @@ La clase se dividio en dos partes en la primera parte se realizo el setup de amb
 ## Desarrollo con React Native
 
 1. Componentes
-  * Image
+  
+[Image](https://reactnative.dev/docs/image)
+:  Cmponente para mostrar diferentes tipos de imágenes, incluidas imágenes de red, recursos estáticos, imágenes locales temporales e imágenes de discos locales 
   * SafeAreaView
   * TouchableOpacity
 2. esquema de carpetas
