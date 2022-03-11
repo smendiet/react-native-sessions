@@ -16,3 +16,8 @@
 - [Night Ownl](https://github.com/sdras/night-owl-vscode-theme#readme) - Tema de VS Code optimizado para codificar en horas nocturnas por los colores usados.
 - [GitLens](https://gitlens.amod.io/) - Ayuda a visualizar la autoría del código de un vistazo a través de las anotaciones.
 - [ES7 + React/Redux/React-Native](https://github.com/dsznajder/vscode-react-javascript-snippets#readme) - facilita el uso de snippets para JavaScript y React/Redux en ES7+, ayudando a codificar rapidamente acciones repetitivas.
+
+## Sesiones
+
+- [Sesión 1](./session-01/README.md)
+- [Sesión 2](./session-02/README.md)
