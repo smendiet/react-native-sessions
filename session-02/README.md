@@ -1,4 +1,4 @@
-# Sesión 2
+# Sesión 2 - Componentes y estilos
 
 La clase se dividio en dos partes en la primera parte se realizo el setup de ambiente de desarrollo y en la segunda seguimos revisando mas componentes de React Native.
 

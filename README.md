@@ -19,5 +19,5 @@
 
 ## Sesiones
 
-- [Sesión 1](./session-01/README.md)
-- [Sesión 2](./session-02/README.md)
+- [Sesión 1](./session-01/README.md) - Introducción a React Native
+- [Sesión 2](./session-02/README.md) - Componentes y estilos

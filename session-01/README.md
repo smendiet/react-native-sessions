@@ -1,4 +1,4 @@
-# Sesión 1
+# Sesión 1 - Introducción a React Native
 
 ## ¿Qué es React Native?
 
