@@ -41,14 +41,11 @@ La clase se dividio en dos partes en la primera parte se realizo el setup de amb
 
 ## Desarrollo con React Native
 
-1. Componentes
-  
-- [Image](https://reactnative.dev/docs/image) - Componente para mostrar diferentes tipos de imágenes, incluidas imágenes de red, recursos estáticos, imágenes locales temporales e imágenes de discos locales 
-- [SafeAreaView](https://reactnative.dev/docs/safeareaview) - El propósito de SafeAreaView es representar contenido dentro de los límites del área segura de un dispositivo.
-- [TouchableOpacity](https://reactnative.dev/docs/touchableopacity) -  Un wrapper para hacer que las vistas respondan correctamente a los toques.
-
-2. Esquema de carpetas
-3. Uso de [StyleSheet](https://reactnative.dev/docs/stylesheet)
-
-Un StyleSheet es una abstracción similar a CSS StyleSheets
+- Componentes
+  - [Image](https://reactnative.dev/docs/image) - Componente para mostrar diferentes tipos de imágenes, incluidas imágenes de red, recursos estáticos, imágenes locales temporales e imágenes de discos locales 
+  - [SafeAreaView](https://reactnative.dev/docs/safeareaview) - El propósito de SafeAreaView es representar contenido dentro de los límites del área segura de un dispositivo.
+  - [TouchableOpacity](https://reactnative.dev/docs/touchableopacity) -  Un wrapper para hacer que las vistas respondan correctamente a los toques.
+- Esquema de carpetas
+- Uso de [StyleSheet](https://reactnative.dev/docs/stylesheet)
+  - Un StyleSheet es una abstracción similar a CSS StyleSheets
 
