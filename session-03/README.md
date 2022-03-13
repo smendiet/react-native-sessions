@@ -9,9 +9,7 @@ Es un módulo de diseño de CSS3 que se creó para mejorar la forma en la que se
 ### Ejemplos realizados en clase
 
 ![Ejemplo-01](./images/flexbox-ejemplo1.png "Ejemplo 1")
-
 ![Ejemplo-02](./images/flexbox-ejemplo2.png "Ejemplo 2")
-
 ![flexbox-challenge](./images/flexbox-challenge.png "Challenge")
 
 ## Layout
@@ -22,4 +20,4 @@ Es un módulo de diseño de CSS3 que se creó para mejorar la forma en la que se
 
 ## Grid Layout
 
-![Ejemplo-01](./images/gridlayout-ejemplo1 "Ejemplo 1")
+![Ejemplo-01](./images/gridlayout-ejemplo1.png "Ejemplo 1")
