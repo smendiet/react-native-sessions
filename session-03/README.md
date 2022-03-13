@@ -1,6 +1,6 @@
 # Sesión 3 - Layouts, responsividad, y adaptabilidad de UI
 
-En está sesión se hicieron prácticas del usos de flexbox y se configuraron distintos layout
+En está sesión se hicieron prácticas del uso de flexbox y de distintos layout.
 
 ## [flexbox](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 
@@ -12,6 +12,6 @@ Es un módulo de diseño de CSS3 que se creó para mejorar la forma en la que se
 
 ![Ejemplo-02](./images/flexbox-ejemplo2.png "Ejemplo 2")
 
-![flexbox-challenge](./images/flexbox-challenge "Challenge")
+![flexbox-challenge](./images/flexbox-challenge.png "Challenge")
 
 ## Layout
