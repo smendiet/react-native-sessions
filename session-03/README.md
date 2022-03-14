@@ -1,12 +1,12 @@
 # Sesión 3 - Layouts, responsividad, y adaptabilidad de UI
 
-En está sesión se hicieron prácticas del uso de flexbox, layout y layout con grid.
+En está sesión se hicieron prácticas del uso de flexbox y de los tipos comunes de layout: Stack Layout, Grid Layout y Absolute Layout.
 
 ## [flexbox](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 
 Es un módulo de diseño de CSS3 que se creó para mejorar la forma en la que se hace diseño responsive. 
 
-### Ejemplos realizados en clase
+### CSS
 
 ![Ejemplo-01](./images/flexbox-ejemplo1.png "Ejemplo 1")
 
@@ -14,7 +14,7 @@ Es un módulo de diseño de CSS3 que se creó para mejorar la forma en la que se
 
 ![flexbox-challenge](./images/flexbox-challenge.png "Challenge")
 
-## Layout
+## Stack Layout
 
 ![Ejemplo-01](./images/layout-ejemplo1.png "Ejemplo 1")
 
