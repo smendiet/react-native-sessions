@@ -22,3 +22,4 @@
 - [Sesión 1](./session-01/README.md) - Introducción a React Native
 - [Sesión 2](./session-02/README.md) - Componentes y estilos
 - [Sesión 3](./session-03/README.md) - Layouts, responsividad, y adaptabilidad de UI 
+- [Sesión 4](./session-04/README.md) - Navegación con react navigation
