@@ -13,3 +13,37 @@ yarn add @react-navigation/bottom-tabs
 ```
 yarn add react-native-vector-icons
 ```
+
+@react-navigation/compact
+
+## Ejemplo 1
+
+![Ejemplo 1](./images/ejemplo-1.png)
+## Reto 1
+pantalla lleve a Login
+
+## Reto 1
+
+Ponerle iconos al tab navigation
+
+## git
+
+* git checkout -b <nueva-rama>
+
+## Buenas prácticas
+
+- usar en los nombre de los commit la nomeclatura
+  feat (<proyectos>): <descripción>
+  o
+  fit (<proyecto>): <descripción>
+- Usar [gitignore](https://gitignore.io/)
+
+## README con los archivos con los reduces
+## Postwork
+
+agregar iconos
+cambiar estilos
+realizar postwork
+  revisar tema teorico de la clase
+  reto
+    crear vista en source/screen/container/creditcard
