@@ -25,3 +25,4 @@
 - [Sesión 4](./session-04/README.md) - Navegación con react navigation
 - [Sesión 5](./session-05/README.md) - Uso y manejo de estados
 - [Sesión 6](./session-06/README.md) - Control y validación de entradas
+- [Sesión 7](./session-07/README.md) - Consumo de APIs 
