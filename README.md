@@ -26,3 +26,4 @@
 - [Sesión 5](./session-05/README.md) - Uso y manejo de estados
 - [Sesión 6](./session-06/README.md) - Control y validación de entradas
 - [Sesión 7](./session-07/README.md) - Consumo de APIs 
+- [Sesión 8](./session-08/README.md) - Debuggeando apps creadas con React native 
